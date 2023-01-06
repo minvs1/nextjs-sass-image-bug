@@ -22,7 +22,7 @@
     "react-dom": "16.13.1",
     "responsive-loader": "^1.2.0",
     "sass": "^1.26.10",
-    "svg-sprite-loader": "^5.0.0",
+    "svg-sprite-loader": "^5.2.1",
     "webp-loader": "^0.6.0"
   }
 }
